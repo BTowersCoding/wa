@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "web-audio-api": "^0.2.2",
+    "speaker": "^0.5.3"
+  }
+}
